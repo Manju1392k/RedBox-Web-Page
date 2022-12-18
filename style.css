@@ -1,0 +1,32 @@
+.main {
+    width: 80vw;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+.backbox {
+    display: flex;
+    justify-content: center;
+    width: 80vw;
+    height: 38rem;
+    flex-wrap: wrap;
+    overflow-y: scroll;
+}
+
+.backbox::-webkit-scrollbar {
+    width: 10px;
+}
+
+.backbox::-webkit-scrollbar-thumb {
+    background-color: #000;
+    border-radius: 8px;
+}
+
+.red {
+    width: 8rem;
+    height: 8rem;
+    border-radius: 8px;
+    background-color: red;
+    margin-right: 1rem;
+    margin-top: 1rem;
+}
