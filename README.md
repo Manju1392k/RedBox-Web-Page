@@ -5,7 +5,7 @@
 
 RedBox is a web page for Timepass.
 
-*This Project Main Intention is Build the Logic.
+*This Project Main Intention is Build the Logic.*
 
 ---
 
